@@ -8,7 +8,7 @@ $ ./zabbix-backup-script.sh -h
   options:
     -f	backup all zabbix config files in etc, usr, apache-configs  and create a full database dump"
     -s	backup all zabbix config files in etc, usr, apache-configs and create a database dump without the tables 
-      history, history_uint, history_text, history_str, history_log, trends, trends_uint and events"
+        history, history_uint, history_text, history_str, history_log, trends, trends_uint and events"
 ``` 
 
 # Planned / future features
